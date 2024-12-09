@@ -1,0 +1,13 @@
+.affliction-type{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+.affliction-type > * {
+    margin: 0 5px
+}
+
+.magnitude-number{
+    height: 2.5vw;
+    width: 10vw
+}
